@@ -1,0 +1,1 @@
+select count(*) as "Numbers of student", "Course recommendation based on relevance" from stud where "Course recommendation based on relevance" > 6 group by 2 order by 2 desc;

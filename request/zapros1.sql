@@ -1,0 +1,1 @@
+select "Student ID", "Degree of difficulty of assigments", "Well versed with the subject" from srud where "Degree of difficulty of assugments" > 5 and "Well versed with the subject" > 7 order by "Degree of difficulty of assugments", "Well versed with the subject";

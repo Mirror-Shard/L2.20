@@ -1,0 +1,1 @@
+select "Student ID", "Structuring of the course" from stud where Structuring of the course" == 10 order by 1;

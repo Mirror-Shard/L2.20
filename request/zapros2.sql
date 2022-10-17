@@ -1,0 +1,1 @@
+select "Provides support for students going above and beyond", count(*) as "Number of students" from stud group by "Provides support for students going above and beyond" order by 2;
